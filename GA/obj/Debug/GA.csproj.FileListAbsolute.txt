@@ -1,8 +1,0 @@
-E:\GitHub\Segee\Control\GA\GA\bin\Debug\GA.exe
-E:\GitHub\Segee\Control\GA\GA\bin\Debug\GA.pdb
-E:\GitHub\Segee\Control\GA\GA\obj\Debug\GA.csprojResolveAssemblyReference.cache
-E:\GitHub\Segee\Control\GA\GA\obj\Debug\GA.Main.resources
-E:\GitHub\Segee\Control\GA\GA\obj\Debug\GA.Properties.Resources.resources
-E:\GitHub\Segee\Control\GA\GA\obj\Debug\GA.csproj.GenerateResource.Cache
-E:\GitHub\Segee\Control\GA\GA\obj\Debug\GA.exe
-E:\GitHub\Segee\Control\GA\GA\obj\Debug\GA.pdb
